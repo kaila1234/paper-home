@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: pink; 
+    background-color: lightblue; 
     margin: 0;
     padding: 0;
 }
 
 
 header {
-    background-color: #ff6347; 
+    background-color: lightgreen; 
     color: #ffffff; 
     padding: 20px;
     text-align: center;

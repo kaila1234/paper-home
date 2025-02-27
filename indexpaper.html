@@ -16,22 +16,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uses of Paper</title>
-    <link rel="stylesheet" href="./stylespaper.css">
+    <title>All About Paper</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: lightgray
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+        }
+        nav {
+            margin: 1em;
+        }
+        nav button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 1em;
+            margin: 0.5em;
+            cursor: pointer;
+        }
+        nav button:hover {
+            background-color: #45a049;
+        }
+    </style>
 </head>
-<body class="uses-body">
+<body>
     <header>
         <h1>All About Paper</h1>
-        <nav>
-            <ul>
-                <li><a href="indexpaper.html">Home</a></li>
-                <li><a href="indexuses.html">Uses of Paper</a></li>
-                <li><a href="types.html">Types of Paper</a></li>
-                <li><a href="how.html">How Paper is Made</a></li>
-            </ul>
-        </nav>
     </header>
-    
-    <footer>All About Paper</footer>
+    <nav>
+        <button onclick="location.href='indexpaper.html'">Home</button>
+        <button onclick="location.href='indexuses.html'">Uses of Paper</button>
+        <button onclick="location.href='how-its-made.html'">How It's Made</button>
+        <button onclick="location.href='about.html'">About Paper</button>
+    </nav>
 </body>
 </html>
