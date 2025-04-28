@@ -26,4 +26,6 @@ I am not sure what my next project is going to be. I haven't put very much thoug
 
 
 <h3> About the Author</h3>
+My name is Kaila. I made this website from scratch. This website, in my opinion, is my best website. I made this website because I found an interest in paper and its qualities. The website is well put together and I hope you enjoy it.
+
 
